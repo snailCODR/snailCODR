@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @snailCODR
 - 👀 I’m interested in coding
 - 🌱 I like coding in Python3 and Lua
-- 📫 How to reach me Discord = (carotenefanatic)
+- 📫 How to reach me Discord = (_cryptition_)
